@@ -72,20 +72,11 @@
 ### :pencil2:   
 
 
-### :pencil2:   
-
-
-### :pencil2:   
-
-
-### :pencil2:   
-
-
-### :pencil2:   
+   
 
 <br>
 
-## :pushpin: 오픈마켓 프로젝트 구현사항
+## :pushpin: 구현 사항
 
 ### < Pagination >
 
