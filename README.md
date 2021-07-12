@@ -18,6 +18,7 @@
 * Alert Controller
 * 로컬 캐시
 * Rest API
+* URLSession을 이용한 multipart형식 네트워킹 구현
 
 <br>
 
