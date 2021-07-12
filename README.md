@@ -10,7 +10,7 @@
 
 
 
-## :pushpin: 학습 키워드
+## :pushpin: 핵심 키워드
 
 * 파싱할 JSON 모델 설계
 * CodingKeys 프로토콜
