@@ -89,21 +89,21 @@
 
 ### < Pagination >
 
-<img src="https://user-images.githubusercontent.com/75533266/120496941-f5ea2280-c3f8-11eb-8204-2386c57e292e.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120496941-f5ea2280-c3f8-11eb-8204-2386c57e292e.gif" width="30%">
 
 
 `List Pagination`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/120496956-fa164000-c3f8-11eb-9bb9-691e0d2739f7.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120496956-fa164000-c3f8-11eb-9bb9-691e0d2739f7.gif" width="30%">
 
 
 `Layout 변경`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/120497009-04383e80-c3f9-11eb-9804-bebc58911a81.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497009-04383e80-c3f9-11eb-9804-bebc58911a81.gif" width="30%">
 
 `Grid Pagination`
 
@@ -111,21 +111,21 @@
 
 ### < 상품 등록 >
 
-<img src="https://user-images.githubusercontent.com/75533266/120497072-11552d80-c3f9-11eb-89cd-af9eeed60306.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497072-11552d80-c3f9-11eb-89cd-af9eeed60306.gif" width="30%">
 
 
 `이미지 선택`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/120497104-1914d200-c3f9-11eb-92fb-ea421ef5375c.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497104-1914d200-c3f9-11eb-92fb-ea421ef5375c.gif" width="30%">
 
 
 `상품 등록을 위한 상세 정보 기입`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/120497119-1c0fc280-c3f9-11eb-942e-6bff4ee7cbb4.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497119-1c0fc280-c3f9-11eb-942e-6bff4ee7cbb4.gif" width="30%">
 
 
 `상품 등록 후 등록 확인`
@@ -135,21 +135,21 @@
 
 ### < 상품 수정 >
 
-<img src="https://user-images.githubusercontent.com/75533266/120497164-23cf6700-c3f9-11eb-9091-01e812e6d313.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497164-23cf6700-c3f9-11eb-9091-01e812e6d313.gif" width="30%">
 
 
 `상품 수정 버튼 클릭`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/120497183-2762ee00-c3f9-11eb-9fb8-8ef9581c6646.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497183-2762ee00-c3f9-11eb-9fb8-8ef9581c6646.gif" width="30%">
 
 
 `상품 수정에서 이미지 수정`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/120497198-2af67500-c3f9-11eb-8f5a-bd19d9bb0b41.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/120497198-2af67500-c3f9-11eb-8f5a-bd19d9bb0b41.gif" width="30%">
 
 
 `상품 수정 버튼 클릭 후 상품 수정 확인`
@@ -161,32 +161,32 @@
 ### < 상품 삭제 >
 
 
-<img src="https://user-images.githubusercontent.com/75533266/125275270-c8728c00-e349-11eb-87da-1508cc374ede.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/125275270-c8728c00-e349-11eb-87da-1508cc374ede.gif" width="30%">
 
 `상품 삭제를 위한 클릭`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275319-d7f1d500-e349-11eb-9f4c-84c5d16a1c4d.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/125275319-d7f1d500-e349-11eb-9f4c-84c5d16a1c4d.gif" width="30%">
 
 `삭제 버튼 `
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275332-da542f00-e349-11eb-90cf-c730fa1cb578.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/125275332-da542f00-e349-11eb-90cf-c730fa1cb578.gif" width="30%">
 
 `틀린 비밀번호 입력 후 확인 버튼 클릭`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275338-db855c00-e349-11eb-97a8-587ede6b37f1.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/125275338-db855c00-e349-11eb-97a8-587ede6b37f1.gif" width="30%">
 
 `알맞는 비밀번호 입력 후 확인 버튼 클릭`
 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275345-dd4f1f80-e349-11eb-9669-fd171326b89d.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/75533266/125275345-dd4f1f80-e349-11eb-9669-fd171326b89d.gif" width="30%">
 
 `상품 삭제 확인`
 
