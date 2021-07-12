@@ -1,6 +1,8 @@
 
 # 오픈마켓 프로젝트 학습
 
+[구현 완성 브랜치 ](https://github.com/yagom-academy/ios-open-market/pull/32)
+
 ### 협업 규칙 - JM, Kio
 - [팀그라운드룰](https://github.com/alwaysblu/ios-open-market/blob/main/Docs/%ED%8C%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%A3%B0.md)
 
@@ -54,6 +56,9 @@
 
 ## :pushpin: Pull Request
 
+* [Step 1](https://github.com/yagom-academy/ios-open-market/pull/19)
+* [Step 2](https://github.com/yagom-academy/ios-open-market/pull/30)
+* [Step 3](https://github.com/yagom-academy/ios-open-market/pull/32)
 
 
 
@@ -61,7 +66,22 @@
 
 ## :pushpin: 트러블 슈팅
 
-### :pencil2:   textView가 나타날때 윗부분이 살짝 가려진 상태로 나타나는 문제
+### :pencil2:   
+
+
+### :pencil2:   
+
+
+### :pencil2:   
+
+
+### :pencil2:   
+
+
+### :pencil2:   
+
+
+### :pencil2:   
 
 <br>
 
