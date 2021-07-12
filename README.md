@@ -67,12 +67,6 @@
 
 ## :pushpin: 트러블 슈팅
 
-### :pencil2:   
-
-
-### :pencil2:   
-
-
    
 
 <br>
