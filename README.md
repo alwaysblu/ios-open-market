@@ -154,32 +154,32 @@
 ### < 상품 삭제 >
 
 
-<img src="https://user-images.githubusercontent.com/75533266/125275270-c8728c00-e349-11eb-87da-1508cc374ede.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/75533266/125275270-c8728c00-e349-11eb-87da-1508cc374ede.gif" width="35%">
 
 `상품 삭제를 위한 클릭`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275319-d7f1d500-e349-11eb-9f4c-84c5d16a1c4d.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/75533266/125275319-d7f1d500-e349-11eb-9f4c-84c5d16a1c4d.gif" width="35%">
 
 `삭제 버튼 `
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275332-da542f00-e349-11eb-90cf-c730fa1cb578.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/75533266/125275332-da542f00-e349-11eb-90cf-c730fa1cb578.gif" width="35%">
 
 `틀린 비밀번호 입력 후 확인 버튼 클릭`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275338-db855c00-e349-11eb-97a8-587ede6b37f1.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/75533266/125275338-db855c00-e349-11eb-97a8-587ede6b37f1.gif" width="35%">
 
 `알맞는 비밀번호 입력 후 확인 버튼 클릭`
 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/75533266/125275345-dd4f1f80-e349-11eb-9669-fd171326b89d.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/75533266/125275345-dd4f1f80-e349-11eb-9669-fd171326b89d.gif" width="35%">
 
 `상품 삭제 확인`
 
