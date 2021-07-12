@@ -85,9 +85,9 @@
 
 <br>
 
-# 오픈마켓 프로젝트 구현사항
+## :pushpin: 오픈마켓 프로젝트 구현사항
 
-## Pagination
+### :pencil2: Pagination
 
 ![openMarket01](https://user-images.githubusercontent.com/75533266/120496941-f5ea2280-c3f8-11eb-8204-2386c57e292e.gif)
 
@@ -106,7 +106,7 @@
 
 ---
 
-## 상품 등록
+### :pencil2: 상품 등록
 
 ![openMarket04](https://user-images.githubusercontent.com/75533266/120497072-11552d80-c3f9-11eb-89cd-af9eeed60306.gif)
 
@@ -125,7 +125,7 @@
 
 ---
 
-## 상품 수정
+### :pencil2: 상품 수정
 
 ![openMarket08](https://user-images.githubusercontent.com/75533266/120497164-23cf6700-c3f9-11eb-9091-01e812e6d313.gif)
 
@@ -146,7 +146,7 @@
 
 ---
 
-## 상품 삭제
+### :pencil2: 상품 삭제
 
 ---
 <img src="https://user-images.githubusercontent.com/75533266/125275270-c8728c00-e349-11eb-87da-1508cc374ede.gif" width="30%">
