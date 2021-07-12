@@ -1,3 +1,4 @@
+
 # 오픈마켓 프로젝트 학습
 
 ### 협업 규칙 - JM, Kio
@@ -43,9 +44,16 @@
 
 ![openMarket11](https://user-images.githubusercontent.com/75533266/120497216-2d58cf00-c3f9-11eb-933c-84b30eb9b249.gif)
 
+![오픈 마켓 2021 07 12  delete 01](https://user-images.githubusercontent.com/75533266/125275270-c8728c00-e349-11eb-87da-1508cc374ede.gif)
 
 
+![오픈 마켓 2021 07 12  delete 02](https://user-images.githubusercontent.com/75533266/125275319-d7f1d500-e349-11eb-9f4c-84c5d16a1c4d.gif)
 
+![오픈 마켓 2021 07 12  delete 03](https://user-images.githubusercontent.com/75533266/125275332-da542f00-e349-11eb-90cf-c730fa1cb578.gif)
+
+![오픈 마켓 2021 07 12  delete 04](https://user-images.githubusercontent.com/75533266/125275338-db855c00-e349-11eb-97a8-587ede6b37f1.gif)
+
+![오픈 마켓 2021 07 12  delete 05](https://user-images.githubusercontent.com/75533266/125275345-dd4f1f80-e349-11eb-9669-fd171326b89d.gif)
 
 
 
