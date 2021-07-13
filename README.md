@@ -1,5 +1,5 @@
 
-# 오픈마켓 프로젝트 학습
+# 오픈마켓 프로젝트
 
 [구현 완성된 코드가 있는 Branch](https://github.com/alwaysblu/ios-open-market/tree/step3)
 
